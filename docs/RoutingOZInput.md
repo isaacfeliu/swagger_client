@@ -1,0 +1,41 @@
+# SwaggerClient::RoutingOZInput
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**routing_oz_code** | **Integer** |  | [optional] 
+**depot** | **Integer** |  | [optional] 
+**depot_partner** | **Integer** |  | [optional] 
+**hub_id** | **Integer** |  | [optional] 
+**partner_hub_id** | **Integer** |  | [optional] 
+**int_service_code** | **Integer** |  | [optional] 
+**int_product_code** | **Integer** |  | [optional] 
+**service_code** | **Integer** |  | [optional] 
+**product_code** | **Integer** |  | [optional] 
+**event_location** | **String** |  | [optional] 
+**event_type** | **String** |  | [optional] 
+**event_code** | **Integer** |  | [optional] 
+**priority** | **Integer** |  | [optional] 
+**origin_partner_id** | **Integer** |  | [optional] 
+**line** | **Integer** |  | [optional] 
+**import_depot** | **Integer** |  | [optional] 
+**nomenclator** | **Integer** |  | [optional] 
+**seur_center_id** | **Integer** |  | [optional] 
+**depot_route_id** | **String** |  | [optional] 
+**o_sort** | **String** |  | [optional] 
+**d_sort** | **String** |  | [optional] 
+**grouping** | **String** |  | [optional] 
+**origin_partner_name** | **String** |  | [optional] 
+**destination_partner_name** | **String** |  | [optional] 
+**depot_name** | **String** |  | [optional] 
+**hub_name** | **String** |  | [optional] 
+**routing_oz_name** | **String** |  | [optional] 
+**depot_route_name** | **String** |  | [optional] 
+**max_parcels_shipment** | **Float** |  | [optional] 
+**max_weigth** | **Float** |  | [optional] 
+**max_weigth_shipment** | **Float** |  | [optional] 
+**max_volume** | **Float** |  | [optional] 
+**max_perimeter** | **Float** |  | [optional] 
+**max_size** | **Float** |  | [optional] 
+
+
