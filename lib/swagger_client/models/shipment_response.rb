@@ -26,7 +26,7 @@ module SwaggerClient
     # Attribute type mapping.
     def self.swagger_types
       {
-        :'data' => :'Array<ShipmentData>'
+        :'data' => :'ShipmentData'
       }
     end
 
